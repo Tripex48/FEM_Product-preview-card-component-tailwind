@@ -63,7 +63,8 @@ I learned about the HTML `<picture>` tag and how it gives web developers flexibi
 
 ### Useful resources
 
-- [CSS reset](https://piccalil.li/blog/a-modern-css-reset/) - A great modern CSS reset that ensures a clean (default) start to any web development project.
+- [Tailwind CSS Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet) - A convenient cheatsheet showing the different Tailwind CSS utility classes.
+- [Tailwind CSS Plugin for Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin that automatically sorts utility classes based on the [Tailwind CSS recommended class order](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted).
 - [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU) - A video from Kevin Powell discussing the properties and workings of CSS Flexbox.
 
 ## Author
