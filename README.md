@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Tripex48/FEM_Product-preview-card-component](https://github.com/Tripex48/FEM_Product-preview-card-component)
-- Live Site URL: [https://Tripex48.github.io/FEM_Product-preview-card-component](https://Tripex48.github.io/FEM_Product-preview-card-component)
+- Solution URL: [https://github.com/Tripex48/FEM_Product-preview-card-component-tailwind](https://github.com/Tripex48/FEM_Product-preview-card-component-tailwind)
+- Live Site URL: [https://Tripex48.github.io/FEM_Product-preview-card-component-tailwind](https://Tripex48.github.io/FEM_Product-preview-card-component-tailwind)
 
 ## My process
 
